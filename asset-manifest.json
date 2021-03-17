@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-block492/static/css/main.97b81511.chunk.css",
+    "main.js": "/react-block492/static/js/main.926b624f.chunk.js",
+    "main.js.map": "/react-block492/static/js/main.926b624f.chunk.js.map",
+    "runtime-main.js": "/react-block492/static/js/runtime-main.4a9c7b4e.js",
+    "runtime-main.js.map": "/react-block492/static/js/runtime-main.4a9c7b4e.js.map",
+    "static/js/2.51f474bf.chunk.js": "/react-block492/static/js/2.51f474bf.chunk.js",
+    "static/js/2.51f474bf.chunk.js.map": "/react-block492/static/js/2.51f474bf.chunk.js.map",
+    "index.html": "/react-block492/index.html",
+    "static/css/main.97b81511.chunk.css.map": "/react-block492/static/css/main.97b81511.chunk.css.map",
+    "static/js/2.51f474bf.chunk.js.LICENSE.txt": "/react-block492/static/js/2.51f474bf.chunk.js.LICENSE.txt",
+    "static/media/ethereum.9bc66d93.png": "/react-block492/static/media/ethereum.9bc66d93.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a9c7b4e.js",
+    "static/js/2.51f474bf.chunk.js",
+    "static/css/main.97b81511.chunk.css",
+    "static/js/main.926b624f.chunk.js"
+  ]
+}
